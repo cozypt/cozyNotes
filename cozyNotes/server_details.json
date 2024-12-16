@@ -1,0 +1,25 @@
+{
+    "Development Server": {
+      "HostName": "dev.example.com",
+      "Details": "Development server for testing new features.",
+      "Port": "8080"
+    },
+    "Staging Server": {
+      "HostName": "staging.example.com",
+      "Details": "Staging server for pre-production tests.",
+      "Port": "9090"
+    },
+    "Production Server": {
+      "HostName": "prod.example.com",
+      "Details": "Main server for production traffic.",
+      "Port": "80",
+      "addinfo": "Monitor traffic between 9 AM and 6 PM."
+    },
+    "Analytics Server": {
+      "HostName": "analytics.example.com",
+      "Details": "Handles all analytics and reporting.",
+      "Port": "5050",
+      "addinfo": "Accessible only from the VPN."
+    }
+  }
+  

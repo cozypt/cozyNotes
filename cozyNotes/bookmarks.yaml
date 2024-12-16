@@ -1,0 +1,25 @@
+Personal:
+  Websites:
+    - name: Google
+      url: https://www.google.com
+    - name: YouTube
+      url: https://www.youtube.com
+    - name: GitHub
+      url: https://github.com
+  Credentials:
+    - name: Personal Email
+      credential: myemail@gmail.com
+    - name: GitHub Token
+      credential: ghp_123456789abcdefghijk
+
+Work:
+  Websites:
+    - name: Work Dashboard
+      url: https://work-dashboard.com
+    - name: Company Wiki
+      url: https://wiki.company.com
+  Credentials:
+    - name: VPN Access
+      credential: vpn_password_123
+    - name: Admin Panel
+      credential: admin12345
